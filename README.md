@@ -1,4 +1,4 @@
-##Para jogar o game, basta compilar os arquivos através do "Make", e em seguida digitar em seu terminal 3 entradas, respectivamente correspondentes a: arquivo de saída dos placares de cada rodada, arquivo de saída do log das batalhas e seed de aleatoriedade do jogo. 
+##Para jogar o game, basta compilar os arquivos através do "Make", e após digitar o comando de execução do arquivo compilado, você deverá fornecer outras 3 entradas, respectivamente correspondentes a: arquivo de saída dos placares de cada rodada, arquivo de saída do log das batalhas e seed de aleatoriedade do jogo. 
 
 Exemplo de uma execução bem sucedida: 
 
