@@ -1,0 +1,349 @@
+1.1- Mew vs Pikachu
+Mew usa Auto-Destruir
+Mew: 0.00% HP 
+Pikachu: 43.00% HP 
+
+Pikachu usa Choque do Trovão
+Pikachu: 94.75% HP 
+Pikachu: 43.00% HP 
+
+Tentativa de Captura
+Sucesso
+
+matheus vence!
+
+1.2- Pikachu vs Blastoise
+Pikachu usa Bater
+Pikachu: 99.75% HP 
+Blastoise: 94.29% HP 
+
+Blastoise usa Bater
+Pikachu: 88.75% HP 
+Blastoise: 94.29% HP 
+
+Pikachu usa Bater
+Pikachu: 88.75% HP 
+Blastoise: 82.86% HP 
+
+Blastoise usa Arma de Água
+Pikachu: 72.25% HP 
+Blastoise: 82.86% HP 
+
+Pikachu usa Bater
+Pikachu: 72.25% HP 
+Blastoise: 77.14% HP 
+
+Blastoise usa Arma de Água
+Pikachu: 55.75% HP 
+Blastoise: 77.14% HP 
+
+Pikachu usa Bater
+Pikachu: 55.75% HP 
+Blastoise: 71.43% HP 
+
+Blastoise usa Arma de Água
+Pikachu: 22.75% HP 
+Blastoise: 71.43% HP 
+
+Pikachu usa Bater
+Pikachu: 22.75% HP 
+Blastoise: 65.71% HP 
+
+Blastoise usa Arma de Água
+Pikachu: 6.25% HP 
+Blastoise: 65.71% HP 
+
+Pikachu usa Bater
+Pikachu: 6.25% HP 
+Blastoise: 60.00% HP 
+
+Blastoise usa Arma de Água
+Pikachu: 0.00% HP 
+Blastoise: 60.00% HP 
+
+Venusaur usa Dois Gumes
+Venusaur: 93.78% HP 
+Blastoise: 40.00% HP 
+
+Blastoise usa Bater
+Venusaur: 91.44% HP 
+Blastoise: 40.00% HP 
+
+Tentativa de Captura
+Fracasso
+
+Blastoise usa Bater
+Venusaur: 89.11% HP 
+Blastoise: 40.00% HP 
+
+Venusaur usa Dois Gumes
+Venusaur: 82.89% HP 
+Blastoise: 20.00% HP 
+
+Blastoise usa Proteger
+Venusaur: 82.89% HP 
+Blastoise: 20.00% HP 
+
+Venusaur usa Dois Gumes
+Venusaur: 70.44% HP 
+Blastoise: 20.00% HP 
+
+Blastoise usa Proteger
+Venusaur: 70.44% HP 
+Blastoise: 20.00% HP 
+
+Venusaur usa Dois Gumes
+Venusaur: 64.22% HP 
+Blastoise: 20.00% HP 
+
+Blastoise usa Arma de Água
+Venusaur: 60.72% HP 
+Blastoise: 20.00% HP 
+
+Venusaur usa Dois Gumes
+Venusaur: 54.50% HP 
+Blastoise: 0.00% HP 
+
+matheus vence!
+
+1.3- Venusaur vs Charizard
+Venusaur usa Dois Gumes
+Venusaur: 55.78% HP 
+Charizard: 92.88% HP 
+
+Charizard usa Bater
+Venusaur: 47.11% HP 
+Charizard: 92.88% HP 
+
+Venusaur usa Dois Gumes
+Venusaur: 45.06% HP 
+Charizard: 85.77% HP 
+
+Charizard usa Lança Chamas
+Venusaur: 18.06% HP 
+Charizard: 85.77% HP 
+
+Venusaur usa Dois Gumes
+Venusaur: 16.00% HP 
+Charizard: 78.65% HP 
+
+Charizard usa Dormir
+Venusaur: 16.00% HP 
+Charizard: 78.65% HP (dormindo)
+
+Venusaur usa Dois Gumes
+Venusaur: 13.94% HP 
+Charizard: 71.54% HP (dormindo)
+
+Venusaur usa Dois Gumes
+Venusaur: 11.89% HP 
+Charizard: 64.42% HP (dormindo)
+
+Venusaur usa Dois Gumes
+Venusaur: 9.83% HP 
+Charizard: 92.88% HP 
+
+Charizard usa Dormir
+Venusaur: 9.83% HP 
+Charizard: 92.88% HP (dormindo)
+
+Venusaur usa Dois Gumes
+Venusaur: 7.78% HP 
+Charizard: 85.77% HP (dormindo)
+
+Venusaur usa Dois Gumes
+Venusaur: 5.72% HP 
+Charizard: 78.65% HP (dormindo)
+
+Venusaur usa Dois Gumes
+Venusaur: 3.67% HP 
+Charizard: 92.88% HP 
+
+Charizard usa Dormir
+Venusaur: 3.67% HP 
+Charizard: 92.88% HP (dormindo)
+
+Venusaur usa Dois Gumes
+Venusaur: 1.61% HP 
+Charizard: 85.77% HP (dormindo)
+
+Venusaur usa Dois Gumes
+Venusaur: 0.00% HP 
+Charizard: 78.65% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 100.00% HP 
+Charizard: 96.15% HP 
+
+Charizard usa Bater
+Pikachu: 90.50% HP 
+Charizard: 96.15% HP 
+
+Pikachu usa Bater
+Pikachu: 90.50% HP 
+Charizard: 92.31% HP 
+
+Charizard usa Dormir
+Pikachu: 90.50% HP 
+Charizard: 92.31% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 90.50% HP 
+Charizard: 88.46% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 90.50% HP 
+Charizard: 84.62% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 90.50% HP 
+Charizard: 96.15% HP 
+
+Charizard usa Lança Chamas
+Pikachu: 59.00% HP 
+Charizard: 96.15% HP 
+
+Pikachu usa Bater
+Pikachu: 59.00% HP 
+Charizard: 92.31% HP 
+
+Charizard usa Bater
+Pikachu: 49.50% HP 
+Charizard: 92.31% HP 
+
+Pikachu usa Bater
+Pikachu: 49.50% HP 
+Charizard: 88.46% HP 
+
+Charizard usa Dormir
+Pikachu: 49.50% HP 
+Charizard: 88.46% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 49.50% HP 
+Charizard: 84.62% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 49.50% HP 
+Charizard: 80.77% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 49.50% HP 
+Charizard: 96.15% HP 
+
+Charizard usa Bater
+Pikachu: 40.00% HP 
+Charizard: 96.15% HP 
+
+Pikachu usa Bater
+Pikachu: 40.00% HP 
+Charizard: 92.31% HP 
+
+Charizard usa Dormir
+Pikachu: 40.00% HP 
+Charizard: 92.31% HP (dormindo)
+
+Pikachu usa Choque do Trovão
+Pikachu: 40.00% HP 
+Charizard: 86.54% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 40.00% HP 
+Charizard: 82.69% HP (dormindo)
+
+Pikachu usa Onda de Choque>
+Pikachu: 40.00% HP 
+Charizard: 100.00% HP (paralisado)
+
+Pikachu usa Onda de Choque>
+Pikachu: 40.00% HP 
+Charizard: 100.00% HP (paralisado)
+
+Pikachu usa Bater
+Pikachu: 40.00% HP 
+Charizard: 96.15% HP 
+
+Charizard usa Bater
+Pikachu: 30.50% HP 
+Charizard: 96.15% HP 
+
+Pikachu usa Bater
+Pikachu: 30.50% HP 
+Charizard: 92.31% HP 
+
+Charizard usa Dormir
+Pikachu: 30.50% HP 
+Charizard: 92.31% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 30.50% HP 
+Charizard: 88.46% HP (dormindo)
+
+Pikachu usa Bater
+Pikachu: 30.50% HP 
+Charizard: 84.62% HP (dormindo)
+
+Tentativa de Fuga
+Fracasso
+
+Charizard usa Dormir
+Pikachu: 30.50% HP 
+Charizard: 100.00% HP (dormindo)
+
+Tentativa de Fuga
+Fracasso
+
+Tentativa de Fuga
+Fracasso
+
+Tentativa de Fuga
+Fracasso
+
+Charizard usa Dormir
+Pikachu: 30.50% HP 
+Charizard: 100.00% HP (dormindo)
+
+Tentativa de Fuga
+Fracasso
+
+Tentativa de Fuga
+Fracasso
+
+Tentativa de Fuga
+Sucesso
+
+1.4- Pikachu vs Blastoise
+Pikachu usa Bater
+Pikachu: 35.50% HP 
+Blastoise: 94.29% HP 
+
+Blastoise usa Bater
+Pikachu: 24.50% HP 
+Blastoise: 94.29% HP 
+
+Pikachu usa Bater
+Pikachu: 24.50% HP 
+Blastoise: 88.57% HP 
+
+Blastoise usa Proteger
+Pikachu: 24.50% HP 
+Blastoise: 88.57% HP 
+
+Pikachu usa Bater
+Pikachu: 24.50% HP 
+Blastoise: 88.57% HP 
+
+Blastoise usa Bater
+Pikachu: 13.50% HP 
+Blastoise: 88.57% HP 
+
+Pikachu usa Bater
+Pikachu: 13.50% HP 
+Blastoise: 82.86% HP 
+
+Blastoise usa Arma de Água
+Pikachu: 0.00% HP 
+Blastoise: 82.86% HP 
+
+matheus perde!
+
