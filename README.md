@@ -3,6 +3,7 @@
 Exemplo de uma execução bem sucedida: 
 
 $ make
+
 $ ./tp2 dir/para/placares.txt dir/para/logs.txt 42
 
 # Função Main
